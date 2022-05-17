@@ -1,2 +1,4 @@
 # Examen1-319
-This is the INF-319 first test 
+1er exámen INF-319
+UNIV. YURIKA MACUSAYA AGUILAR
+
